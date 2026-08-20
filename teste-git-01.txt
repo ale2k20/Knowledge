@@ -1,0 +1,2 @@
+Aprender Git é importante ajuda a organizar a vida digital!
+Meu primeiro arquivo criado via terminal usando bash git.
