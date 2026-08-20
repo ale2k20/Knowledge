@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+.btn {
+  border-radius: 50px;
+  font-weight: 500;
+  transition: transform 0.2s;
+}
+
+.btn:hover {
+  transform: scale(1.03);
+}
+
+img {
+  border: 4px solid white;
+}
