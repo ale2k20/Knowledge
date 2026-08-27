@@ -1,6 +1,13 @@
-index.html
-css/style.css
-js/script.js
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos que antes não subiam ao git
+# index.html
+# css/style.css
+# js/script.js
+
+# Pastas locais
 img/
 
 
